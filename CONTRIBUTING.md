@@ -11,6 +11,8 @@ See the existing issues for things to start contributing.
 For bigger changes, please make sure you start a discussion first by creating an issue and explaining the intended change.
 
 > **Note (personal fork):** This is my personal fork for learning and experimentation. I'm not actively accepting contributions here — please direct any contributions to the [upstream repository](https://github.com/atlassian/atlassian-mcp-server) instead.
+>
+> If you're exploring this fork out of curiosity, feel free to open an issue just to chat — I'm happy to discuss ideas or share notes on what I've been trying out.
 
 Atlassian requires contributors to sign a Contributor License Agreement, known as a CLA. This serves as a record stating that the contributor is entitled to contribute the code/documentation/translation to the project and is willing to have it used in distributions and derivative works (or is willing to transfer ownership).
 
